@@ -1,3 +1,3 @@
 # Random Meal Generator
 
-Check live demo here --> https://random-recipe-generator.netlify.app/
+<a href="https://random-recipe-generator.netlify.app/" target="_blank">Check live demo here</a>
